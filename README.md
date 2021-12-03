@@ -18,12 +18,12 @@ https://observablehq.com/@58047f410ec869df/has-your-high-schools-graduation-rate
 ## Video
 https://drive.google.com/file/d/1PebgfR2uo8Rsh0dCUATwuNkbXJ_8mu8P/view?usp=sharing
 ## Datasets
-(created)
+### Created
 [GRADgoalstsa (2).csv](https://github.com/CMU-Vis-2021/Final-Project-RJ/files/7646780/GRADgoalstsa.2.csv)
 
 [DATAFULL (1).csv](https://github.com/CMU-Vis-2021/Final-Project-RJ/files/7646782/DATAFULL.1.csv)
 
-## Downloads
+### Downloads
 
 [2015_-_2016_School_Quality_Report_Results_for_High_School.csv](https://github.com/CMU-Vis-2021/Final-Project-RJ/files/7646785/2015_-_2016_School_Quality_Report_Results_for_High_School.csv)
 [2016_DOE_High_School_Directory.csv](https://github.com/CMU-Vis-2021/Final-Project-RJ/files/7646786/2016_DOE_High_School_Directory.csv)

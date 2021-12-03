@@ -2,7 +2,7 @@
 
 ## Title
 Understanding How & Why Non-Standardized Test Factors Predict If a NYC HS's graduation rate was at or above 90%. 
-
+![EILPloty](https://user-images.githubusercontent.com/71774252/144546058-edd04e70-7071-49ac-b151-ae9da7bbc080.png)
 ## Creator
 Rachel Jones
 
